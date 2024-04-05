@@ -1,4 +1,4 @@
-# web_app_infrastructure
+```# web_app_infrastructure
 HW March 31,2024
 Challenge: Basic Web Application Infrastructure Setup with Terraform
 Objective:
@@ -16,5 +16,5 @@ Define IAM policies that specify read-write access to the S3 bucket and DynamoDB
 Create IAM roles and attach the policies to them.✅
 Remote State Management:
 Configure an S3 bucket for storing the Terraform state file. Enable versioning and encryption for security.
-Use a DynamoDB table for state locking to prevent concurrent state modifications.✅
+Use a DynamoDB table for state locking to prevent concurrent state modifications.✅```
 
